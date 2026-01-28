@@ -3,6 +3,7 @@
 
 ## DOI
 
+https://doi.org/10.5281/zenodo.18399289
 
 ## ✍ Descrizione
 Questo progetto presenta un'analisi del dataset LiSPOD (Library and Information Science OpenData) estratti da Wikidata. L'obiettivo ultimo è valutare la maturità e l'affidabilità delle pubblicazioni biblioteconomiche all'interno della piattaforma, osservando come la quantità di record si scontri con l'effettiva precisione dei metadati.
